@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\thara\source\repos\SBClient\SBClient\bin\Release\net5.0\browser-wasm\publish\</_PublishTargetUrl>
+    <History>True|2021-11-12T18:39:09.6843669Z;</History>
+  </PropertyGroup>
+</Project>
